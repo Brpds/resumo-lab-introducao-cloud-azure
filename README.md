@@ -1,0 +1,1 @@
+# resumo-lab-introducao-cloud-azure
